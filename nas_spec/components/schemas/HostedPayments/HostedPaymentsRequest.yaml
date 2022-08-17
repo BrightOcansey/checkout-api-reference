@@ -39,7 +39,7 @@ properties:
       name:
         type: string
         maxLength: 25
-        description: A dynamic description of the change
+        description: A dynamic description of the charge
       city:
         type: string
         minLength: 1
